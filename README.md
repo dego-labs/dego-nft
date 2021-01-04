@@ -1,4 +1,4 @@
-# dego-token
-ERC20 token for degotoken
+# dego-nft
+nft contracts for dego
 
 npm run delopy  # flatter contract
